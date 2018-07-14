@@ -1,0 +1,42 @@
+{
+  "101": {
+    "id": "101",
+    "type": 1,
+    "src": "res/battle/Icon_Hamburger_10.png",
+    "desc": "月明星稀，下一句是什么？",
+    "answer": "乌鹊南飞|日照香炉|鬼知道咯|不告诉你",
+    "aim": "乌鹊南飞"
+  },
+  "102": {
+    "id": "102",
+    "type": 1,
+    "src": "res/battle/Icon_Hamburger_10.png",
+    "desc": "下面哪个国家不在三国演义里",
+    "answer": "魏国|蜀国|吴国|我国",
+    "aim": "我国"
+  },
+  "103": {
+    "id": "103",
+    "type": 1,
+    "src": "res/battle/Icon_Hamburger_10.png",
+    "desc": "后世敬称李白为什么？",
+    "answer": "诗仙|诗鬼|剑仙|剑圣",
+    "aim": "诗仙"
+  },
+  "104": {
+    "id": "104",
+    "type": 2,
+    "src": "res/battle/Icon_Hamburger_10.png",
+    "desc": "图中所示是何物",
+    "answer": "薯条|汉堡|玩具|鬼知道",
+    "aim": "汉堡"
+  },
+  "105": {
+    "id": "105",
+    "type": 1,
+    "src": "res/battle/Icon_Hamburger_10.png",
+    "desc": "周瑜当年是怎么死的",
+    "answer": "心脏病|艾滋病|白血病|作死",
+    "aim": "作死"
+  }
+}
